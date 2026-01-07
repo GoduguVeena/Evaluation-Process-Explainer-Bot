@@ -27,7 +27,7 @@ with st.sidebar:
         st.rerun()
 
     st.markdown("---")
-    st.caption("v1.2 | Powered by Gemini")
+    st.caption("RGMCET | Powered by GenZetta")
 
 # --- MAIN INTERFACE ---
 st.title("🎓 Academic Examination Assistant")
