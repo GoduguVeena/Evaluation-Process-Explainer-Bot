@@ -39,7 +39,7 @@ A professional AI-powered chatbot designed to assist students with academic exam
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 aignite/
@@ -56,7 +56,7 @@ aignite/
 
 ---
 
-## 🔐 System Prompt & Safety
+## System Prompt & Safety
 
 The chatbot operates under a strict system prompt (`system_prompt.py`) that ensures:
 
